@@ -12,7 +12,7 @@ public class App
     {
         System.out.println("============Welcome to Student Details management============");
         int choice=0;
-        Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in);
         
         while(true)
         {
